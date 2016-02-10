@@ -7,6 +7,12 @@ Rails.application.routes.draw do
   # You can have the root of your site routed with "root"
    root 'welcome#index'
 
+   get '/cms/dashboard', to: 'cms#dashboard'
+   get '/cms/home', to: 'cms#home'
+   get '/cms/pages', to: 'cms#pages'
+   get '/cms/blog', to: 'cms#blog'
+   get '/cms/contact', to: 'cms#contact'
+
   # Example of regular route:
   #   get 'products/:id' => 'catalog#view'
 
