@@ -2,6 +2,6 @@
 
 ScripCMS is an open source Ruby on Rails content management system.
 
-This is still in it's early stage of development, hang tight for updates.
+This is still in it's early stage of development, so there isn't much of a CMS yet. Hang tight for updates.
 
 Developed by ScripLab.
